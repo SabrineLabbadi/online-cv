@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sabrine Labbadi
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: labadi.sabrine@gmail.com
@@ -48,12 +48,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Detail-oriented individual with exceptional multi-tasking and time management skills,
+      looking for an End of Studies Internship “PFE” that will allow me to utilize my 
+      problem-solving skills to further develop my abilities in the field of computer science.
 education:
     - degree: MSc in Computer Science
       university: University of London
